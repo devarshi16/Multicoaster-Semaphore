@@ -20,3 +20,6 @@ from subsequent carloads.
 Puzzle: modify the previous solution to handle the additional constraints.
 You can assume that there are m cars, and that each car has a local variable
 named i that contains an identifier between 0 and m − 1.
+
+simulation of code on the above code in the link below
+https://www.youtube.com/watch?v=X4MdaWIQv_o&t=135s
